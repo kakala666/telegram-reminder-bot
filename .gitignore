@@ -6,3 +6,7 @@ data/
 *.db-wal
 .env
 .env.local
+AGENTS.md
+CLAUDE.md
+openspec/
+.claude/
